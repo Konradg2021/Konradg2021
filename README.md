@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Konradg2021
+- 👋 Hi, I’m Konrad
 
 <!---
 Konradg2021/Konradg2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
